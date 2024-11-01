@@ -1,4 +1,4 @@
 # demo-repo
 This is a demo repo
 <br>
-Author - Faraaz Ahmed
+Author - S A Faraaz Ahmed
